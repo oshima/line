@@ -1,0 +1,8 @@
+require 'line/message/audio'
+require 'line/message/contact'
+require 'line/message/image'
+require 'line/message/location'
+require 'line/message/rich_message'
+require 'line/message/sticker'
+require 'line/message/text'
+require 'line/message/video'
