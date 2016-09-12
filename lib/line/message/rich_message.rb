@@ -35,7 +35,6 @@ module Line
       end
 
       def add_send_message_action(text, touch_areas, alt_text = '')
-
         action = {
           'type' => 'sendMessage',
           'text' => alt_text,
